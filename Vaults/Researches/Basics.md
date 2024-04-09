@@ -12,11 +12,11 @@
 
 5. [[Graph Cut(图割)]]: 基于图论的割边方法实现图像分割
 
-6. Atlas-based: 基于标准模板图谱的配准分割方法
+6. [[Atlas-based]]: 基于标准模板图谱的配准分割方法
 
 二、基于深度学习的分割方法:
 
-1. FCN (Fully Convolutional Networks): 全卷积网络用于像素级分类
+1. [[FCN (Fully Convolutional Networks,全卷积网络)]]: 全卷积网络用于像素级分类
 
 2. U-Net: 编解码器结构的卷积网络,广泛用于医学图像分割
 

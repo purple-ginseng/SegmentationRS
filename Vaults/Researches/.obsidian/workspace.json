@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5e6e71e556a49a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about Basics/Active Contour (Snakes).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "702e4df0177ed074",
+            "id": "0f2fca5cc71e9799",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "760ff493e2e5a7c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about Basics/Active Contour (Snakes).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "702e4df0177ed074",
+  "active": "0f2fca5cc71e9799",
   "lastOpenFiles": [
-    "about Basics/Graph Cut(图割).md",
-    "about Basics/Active Contour (Snakes).md",
+    "about Basics/FCN (Fully Convolutional Networks,全卷积网络).md",
     "Basics.md",
+    "about Basics/Active Contour (Snakes).md",
+    "about Basics/Atlas-based.md",
+    "about Basics/Graph Cut(图割).md",
     "Introduction.md",
     "about Basics/Watershed.md",
     "about Basics/Region growing.md",
