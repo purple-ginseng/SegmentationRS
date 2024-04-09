@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "814571ec1f09eb9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef9b91cec8aced68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5e6e71e556a49a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about Basics/Active Contour (Snakes).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "702e4df0177ed074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "760ff493e2e5a7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about Basics/Active Contour (Snakes).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f89047c533dda9ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c75b44c68063f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b051c0fdaac76955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c02ffa8c0907f94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75757918bc0f8ef2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "356c19c7bffb0842",
+    "type": "split",
+    "children": [
+      {
+        "id": "abed824b1687f8bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89fa4455a40ce86f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4683dd1180ce426",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47011811490c2325",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53c854e305d2381d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "702e4df0177ed074",
+  "lastOpenFiles": [
+    "about Basics/Graph Cut(图割).md",
+    "about Basics/Active Contour (Snakes).md",
+    "Basics.md",
+    "Introduction.md",
+    "about Basics/Watershed.md",
+    "about Basics/Region growing.md",
+    "about Basics/Thresholding.md",
+    "about Basics"
+  ]
+}
