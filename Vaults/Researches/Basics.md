@@ -18,27 +18,27 @@
 
 1. [[FCN (Fully Convolutional Networks,全卷积网络)]]: 全卷积网络用于像素级分类
 
-2. U-Net: 编解码器结构的卷积网络,广泛用于医学图像分割
+2. [[U-Net]]: 编解码器结构的卷积网络,广泛用于医学图像分割
 
-3. SegNet: 类似U-Net的编解码器结构,用于语义分割
+3. [[SegNet]]: 类似U-Net的编解码器结构,用于语义分割
 
-4. DeepLab: 采用空洞卷积和CRF后处理的语义分割网络
+4. [[DeepLab]]: 采用空洞卷积和CRF后处理的语义分割网络
 
-5. Mask R-CNN: 基于区域提议和FCN的实例分割框架
+5. [[Mask R-CNN]]: 基于区域提议和FCN的实例分割框架
 
 三、图像分类算法:
 
-1. K-Nearest Neighbor (KNN): 基于最近邻规则的分类方法
+1. [[K-Nearest Neighbour (KNN)]]: 基于最近邻规则的分类方法
 
-2. Support Vector Machine (SVM): 寻找最优分类超平面的经典分类器
+2. [[Support Vector Machine (SVM)]]: 寻找最优分类超平面的经典分类器
 
-3. Decision Tree & Random Forest: 基于决策树的分类算法及其集成学习扩展
+3. [[Decision Tree & Random Forest]]: 基于决策树的分类算法及其集成学习扩展
 
-4. Naive Bayes: 基于贝叶斯定理和特征独立性假设的概率分类器
+4. [[Naive Bayes]]: 基于贝叶斯定理和特征独立性假设的概率分类器
 
-5. Logistic Regression: 常用的线性二分类器
+5. [[Logistics Regression]]: 常用的线性二分类器
 
-6. Neural Networks: 浅层或深层神经网络结构用于分类任务
+6. [[Neural Networks]]: 浅层或深层神经网络结构用于分类任务
 
 四、基于深度学习的分类方法:
 
@@ -54,13 +54,13 @@
 
 五、图像分析相关技术:
 
-1. 图像增强: 直方图均衡化、对比度调整等
+1. 图像增强: 直方图均衡化 (Histogram equalization)、对比度调整 (Contrast adjustment) 等
 
-2. 特征提取: 纹理特征、形状特征、灰度共生矩阵等
+2. 特征提取: 纹理特征 (Texture features)、形状特征 (Shape features) 、灰度共生矩阵 (Gray-level concurrence matrix) 等
 
-3. 图像配准: 基于特征或灰度的图像对齐方法
+3. 图像配准: 基于特征 (Feature) 或灰度的图像 (Grayscale-based image) 对齐方法 (Alignment methods)
 
-4. 图像融合: 多模态医学图像的融合方法,如IHS变换、小波变换等
+4. 图像融合: 多模态医学图像的融合方法,如IHS变换、小波变换 (Wavelet transform) 等
 
 5. 形态学处理: 腐蚀、膨胀、开闭运算等
 

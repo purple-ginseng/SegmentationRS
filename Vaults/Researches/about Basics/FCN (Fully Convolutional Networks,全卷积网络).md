@@ -1,5 +1,7 @@
 FCN(Fully Convolutional Networks,全卷积网络)是一种用于图像像素级分类(即语义分割)的端到端深度学习模型。与经典的卷积神经网络(如AlexNet、VGGNet等)不同,FCN将最后的全连接层替换为卷积层,使得网络可以接受任意大小的输入图像,并输出与输入尺寸相对应的分割结果。
 
+![[Pasted image 20240410114829.png]]
+
 FCN的基本架构如下:
 
 1. 编码器(Encoder):

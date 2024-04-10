@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "ef9b91cec8aced68",
+        "id": "cf04321d05d4a092",
         "type": "tabs",
         "children": [
           {
-            "id": "0f2fca5cc71e9799",
+            "id": "33d82ff2114486cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "477eae12d83fd064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about Basics/Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a212f34a3f96d832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about Basics/Logistics Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,12 +170,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f2fca5cc71e9799",
+  "active": "33d82ff2114486cf",
   "lastOpenFiles": [
-    "about Basics/FCN (Fully Convolutional Networks,全卷积网络).md",
+    "about Basics/Neural Networks.md",
     "Basics.md",
-    "about Basics/Active Contour (Snakes).md",
+    "about Basics/Logistics Regression.md",
     "about Basics/Atlas-based.md",
+    "about Basics/Naive Bayes.md",
+    "about Basics/Decision Tree & Random Forest.md",
+    "about Basics/Support Vector Machine (SVM).md",
+    "about Basics/K-Nearest Neighbour (KNN).md",
+    "about Basics/DeepLab.md",
+    "about Basics/Mask R-CNN.md",
+    "about Basics/FCN (Fully Convolutional Networks,全卷积网络).md",
+    "about Basics/Pasted image 20240410114829.png",
+    "about Basics/SegNet.md",
+    "about Basics/U-Net.md",
+    "about Basics/Active Contour (Snakes).md",
     "about Basics/Graph Cut(图割).md",
     "Introduction.md",
     "about Basics/Watershed.md",
